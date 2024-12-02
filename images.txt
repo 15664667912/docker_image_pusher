@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 grafana/grafana:5.2.4
 python:alpine3.19
+mysql
