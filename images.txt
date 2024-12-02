@@ -7,3 +7,4 @@ xhofe/alist:latest
 grafana/grafana:5.2.4
 python:alpine3.19
 mysql
+mysql:5.7
