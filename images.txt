@@ -7,3 +7,4 @@
 #python:alpine3.19
 mysql:8.4.3
 #bitnami/prometheus:latest
+busybox:unstable-uclibc
